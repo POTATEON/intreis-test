@@ -8,9 +8,12 @@ pip install -r requirements.txt
 
 ## Запуск тестов
 
-pytest test_url_utils.py -v
-pytest test_link_extractor.py -v
-pytest test_summary_formatter.py -v
+pytest test_url_utils.py -v  
+
+pytest test_link_extractor.py -v  
+
+pytest test_summary_formatter.py -v  
+
 
 ## Что не сделано
 
